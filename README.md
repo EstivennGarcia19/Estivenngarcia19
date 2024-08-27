@@ -6,8 +6,11 @@
 I am a web developer with a focus on creating practical and efficient solutions for both frontend and backend development. I am constantly seeking new opportunities to learn and grow in the tech world. My experience with various projects has refined my coding skills and allowed me to implement the latest technologies to enhance efficiency and effectiveness. I am passionate about leveraging new tools and techniques to deliver high-quality, cutting-edge solutions.
 
 <br>
-🌱 I’m currently learning <strong>Docker</strong>, <strong>Kotlin</strong>
-👯 I’m looking to collaborate on **interesting web development projects** where I can learn, grow, and contribute with my skills in both frontend and backend development.
+- 🌱 I’m currently learning <strong>Docker</strong>, <strong>Kotlin</strong>
+<br>
+- 👯 I’m looking to collaborate on <strong>interesting web development projects</strong> where I can learn, grow, and contribute with my skills.
+<br>
+- 🐶 Team Dogs <3
 
 <br><br><br>
 
@@ -20,6 +23,12 @@ I am a web developer with a focus on creating practical and efficient solutions 
 
 🖥️ Backend: <br><br>
 [![My Skills](https://skillicons.dev/icons?i=laravel,php,mysql,docker)](https://skillicons.dev)
+
+<br><br><br>
+
+
+<h3>👴 <i> "In the world of programming, code is not just a tool for creation but a reflection of our ability to solve problems and build the future." </i> 🍷  </h3> 
+
 
 <br><br><br><br>
 <h1>🤵 Thank You! 🗿 </h1>  
