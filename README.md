@@ -16,13 +16,13 @@ I am a web developer with a focus on creating practical and efficient solutions 
 
 ## 👨🏻‍💻 Technologies I Use
 
-:art: <strong>Frontend:</strong> <br><br>
-[![My Skills](https://skillicons.dev/icons?i=react,bootstrap,sass,js,html,css)](https://skillicons.dev)
+:art: <strong>Backend:</strong> <br><br>
+[![My Skills](https://skillicons.dev/icons?i=laravel,php,mysql,docker)](https://skillicons.dev)
 
 <br>
 
-🖥️ <strong>Backend:</strong> <br><br>
-[![My Skills](https://skillicons.dev/icons?i=laravel,php,mysql,docker)](https://skillicons.dev)
+🖥️ <strong>Frontend:</strong> <br><br>
+[![My Skills](https://skillicons.dev/icons?i=react,bootstrap,sass,js,html,css,figma)](https://skillicons.dev)
 
 <br><br>
 
