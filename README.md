@@ -10,7 +10,8 @@ I am a web developer with a focus on creating practical and efficient solutions 
 <br>
 - 👯 I’m looking to collaborate on <strong>interesting web development projects</strong> where I can learn, grow, and contribute with my skills.
 <br>
-- 📧 How to reach me estivenngarcia@gmail.com
+- 📧 Send me a message <a href="mailto:tu-email@ejemplo.com">estivenngarcia19@gmail.com</a>
+
 <br>
 - 🐶 Team Dogs <3
 
@@ -25,6 +26,7 @@ I am a web developer with a focus on creating practical and efficient solutions 
 
 🖥️ <strong>Frontend:</strong> <br><br>
 [![My Skills](https://skillicons.dev/icons?i=react,bootstrap,sass,js,html,css,figma)](https://skillicons.dev)
+[](https://pornhub)
 
 <br><br>
 
