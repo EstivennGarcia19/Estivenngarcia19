@@ -31,7 +31,7 @@ I am a web developer with a focus on creating practical and efficient solutions 
 
 
 <br><br><br><br>
-<h1>🤵 Thank You! 🗿 </h1>  
+<h1>Thank You! 🤵🗿</h1>  
 
 
 
