@@ -16,15 +16,15 @@ I am a web developer with a focus on creating practical and efficient solutions 
 
 ## 👨🏻‍💻 Technologies I Use
 
-:art: Frontend: <br><br>
+:art: <strong>Frontend:</strong> <br><br>
 [![My Skills](https://skillicons.dev/icons?i=react,bootstrap,sass,js,html,css)](https://skillicons.dev)
 
 <br>
 
-🖥️ Backend: <br><br>
+🖥️ <strong>Backend:</strong> <br><br>
 [![My Skills](https://skillicons.dev/icons?i=laravel,php,mysql,docker)](https://skillicons.dev)
 
-<br><br><br>
+<br><br>
 
 
 <h3>👴 <i> "In the world of programming, code is not just a tool for creation but a reflection of our ability to solve problems and build the future." </i> 🍷  </h3> 
