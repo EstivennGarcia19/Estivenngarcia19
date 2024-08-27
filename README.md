@@ -12,7 +12,7 @@ I am a web developer with a focus on creating practical and efficient solutions 
 <br>
 - 🐶 Team Dogs <3
 
-<br><br><br>
+<br><br>
 
 ## 👨🏻‍💻 Technologies I Use
 
