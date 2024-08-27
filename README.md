@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 <img src="https://github.com/EstivennGarcia19/Estivenngarcia19.wiki.git">
+<img src="mi_proyecto.png" alt="Mi proyecto genial" width="300">
 ![EstivennName](https://raw.githubusercontent.com/EstivennGarcia19/Estivenngarcia19/a739027beee1f9f00504c06cda17be51a5a76395/%7B%20Estivenn%20%7D.svg)
 
 
